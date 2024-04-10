@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 #ignorera datasetet till labben
-ml-latest-small
+ml-latest-small/
