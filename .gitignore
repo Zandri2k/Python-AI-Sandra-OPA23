@@ -161,3 +161,4 @@ cython_debug/
 
 #ignorera datasetet till labben
 ml-latest-small/
+ml-latest/
